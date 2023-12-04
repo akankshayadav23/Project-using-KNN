@@ -1,2 +1,2 @@
-# Project-using-KNN
+# Project-Using-KNN
 This model is prepared by using KNN model using Machine learning life cycles .
